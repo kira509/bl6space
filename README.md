@@ -24,16 +24,16 @@
 [![Black Merchant](https://github.com/Blackie254.png?lenght=50width=50)](https://github.com/Blackie254)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐁𝐋𝐀𝐂𝐊 𝐌𝐃" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=GENESIS-MD" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator- 𝐁𝐋𝐀𝐂𝐊𝐌𝐄𝐑𝐂𝐇𝐀𝐍𝐓-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KIERAN-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Blackie254?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Blackie254?label=Followers&style=social"></a>
-<a href="https://github.com/Blackie254/black-super-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Blackie254/black-super-bot?&style=social"></a>
-<a href="https://github.com/Blackie254/black-super-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Blackie254/black-super-bot?style=social"></a>
-<a href="https://github.com/Blackie254/black-super-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Blackie254/black-super-bot?label=Watching&style=social"></a>
+<a href="https://github.com/kira509/bl6space/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kira509/bl6space?&style=social"></a>
+<a href="https://github.com/kira509/bl6space/network/members"><img title="Fork" src="https://img.shields.io/github/forks/kira509/bl6space?style=social"></a>
+<a href="https://github.com/kira509/bl6space/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kira509/bl6space?label=Watching&style=social"></a>
 </p>
  
 <!-- Glowing Footer -->
@@ -45,7 +45,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254114283550&text=Hello+black"><img src="https://img.shields.io/badge/Contact 𝐁𝐋𝐀𝐂𝐊𝐌𝐄𝐑𝐂𝐇𝐀𝐍𝐓 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254114283550&text=Hello+black"><img src="https://img.shields.io/badge/Contact KIERAN-MD� -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
@@ -77,7 +77,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/Blackie254/black-super-bot/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
+<a href="https://github.com/kira509/bl6space/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
 <p/>
   
 Linking/Pairing:
@@ -125,9 +125,9 @@ Linking/Pairing:
 
 ## License
 
-[MIT License]((https://github.com/Blackie254/black-super-bot)/LICENSE)
+[MIT License]((https://github.com/kira509/bl6space)/LICENSE)
 
-Copyright (c) 2025 𝐁𝐋𝐀𝐂𝐊𝐌𝐄𝐑𝐂𝐇𝐀𝐍𝐓  
+Copyright (c) 2025 KIERAN-MD�  
 
 <!-- Glowing Footer -->
 <p align="center">
