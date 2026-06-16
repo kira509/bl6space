@@ -21,7 +21,7 @@
   
 <p align="center">
   
-[![Black Merchant](https://github.com/Blackie254.png?lenght=50width=50)](https://github.com/Blackie254)
+[![kira509 Profile](https://github.com/kira509.png?length=50&width=50)](https://github.com/kira509)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=GENESIS-MD" alt="">
@@ -30,7 +30,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KIERAN-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Blackie254?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Blackie254?label=Followers&style=social"></a>
+<a href="https://github.com/kira509?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/kira509?label=Followers&style=social"></a>
 <a href="https://github.com/kira509/bl6space/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kira509/bl6space?&style=social"></a>
 <a href="https://github.com/kira509/bl6space/network/members"><img title="Fork" src="https://img.shields.io/github/forks/kira509/bl6space?style=social"></a>
 <a href="https://github.com/kira509/bl6space/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kira509/bl6space?label=Watching&style=social"></a>
@@ -41,95 +41,4 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## ```CONTACT ME```
-
-<p align="center">
-
-<a href="https://api.whatsapp.com/send?phone=254104885266&text=Hello+black"><img src="https://img.shields.io/badge/Contact KIERAN-MD� -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
-
-<!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-## DISCLAIMER
-- Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
-
-<!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-## FEATURES
-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
-
-Our AI features use random APIs to run, so sometimes they may be down.
-
-<!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-# SET-UP
-
-## ` Fork this repo`
-<p align="centre">
-<a href="https://github.com/kira509/bl6space/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
-<p/>
-  
-Linking/Pairing:
-## ` Pair onrender`
-<p align="centre">
-<a href="https://blacks-pair.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
-<p/>
-            
-<!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
-
-
- 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://blacks-progressive-platform.vercel.app/)***
- 
-
-    
-
-- Fill in the required variables into your hosting site for bot to work.
- </h2>
-
-<!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-  ## credits    
-<!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p> 
-  <h1 align="center">𝐂𝐑𝐄𝐃𝐈𝐓𝐒 𝐓𝐎 𝐍𝐈𝐂𝐊 𝐇𝐔𝐍𝐓𝐄𝐑 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐁𝐀𝐒𝐄</h1>
-  </a>
-  <!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
-
-
-
-## License
-
-[MIT License]((https://github.com/kira509/bl6space)/LICENSE)
-
-Copyright (c) 2025 KIERAN-MD�  
-
-<!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
+## ```CONTACT ME
